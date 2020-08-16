@@ -12,6 +12,9 @@
   "homepage": "https://github.com/octref/shiki/tree/master/packages/grammars",
   "license": "MIT",
   "main": "dist/index.js",
+  "scripts": {
+    "bootstrap": ""
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/octref/shiki.git"
